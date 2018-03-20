@@ -4,6 +4,8 @@ Repository for design of IMU by UniSA Rocketry Avionics team.
 
 3 modules: Accelerometer, Gyroscope & Magnetometer.
 
+Prototyped on Arduino, ideally switch to a smaller, lower power microcontroller for final implementation. Plan for single-board IMU using I2C.
+
 # Accelerometer:
 
 - Status: 
