@@ -7,7 +7,7 @@ Repository for design of IMU by UniSA Rocketry Avionics team.
 # Accelerometer:
 
 - Status: 
-  - Prototyped on Arduino UNO Rev3 using XC4478 (3 DOF) from Jaycar.
+  - Prototyped on Arduino using XC4478 (3 DOF) from Jaycar.
   - Outputs g-force reading on XYZ axes to serial port.
   - Data logged to .txt file using CoolTermWin, and plotted in Excel manually.
    
