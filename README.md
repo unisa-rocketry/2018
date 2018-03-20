@@ -17,6 +17,7 @@ Prototyped on Arduino, ideally switch to a smaller, lower power microcontroller 
       - Set up real time data logging & plotting system in MATLAB/Simulink. 
       - Implement filter to minimise noisy data.
         - Kalman Filter / averaging system.
+      - Calibrate the accelerometer.
         
  # Gyroscope:
  
