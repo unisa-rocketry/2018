@@ -1,4 +1,4 @@
-# IMU
+# Flight Computer
 
 Repository for design of IMU by UniSA Rocketry Avionics team. 
 
