@@ -1,5 +1,5 @@
 # 2018 UniSA Rocketry Avionics
-Repository for design of avionics package for 2018 AURC competition rockets by UniSA Rocketry Avionics team. 
+Repository for design of avionics package for 2018 AURC competition rockets by UniSA Rocketry Avionics team. Cool name needed.
 
 
  # Hardware:
